@@ -6,5 +6,11 @@
   "background_color": "#080b12",
   "theme_color": "#8000ff",
   "description": "مودات وخرائط وأخبار الألعاب",
-  "icons": []
+  "icons": [
+    {
+      "src": "file_00000000e59c8246981adbe917983cf7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
